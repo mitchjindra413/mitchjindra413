@@ -1,4 +1,4 @@
-# Hello World, I'm Mitchell:
+# 👋 Hello World, I'm Mitchell:
 🔭 I’m currently working on a MERN stack project<br>🌱 I’m currently learning SASS<br>💬 Ask me about breezebnb<br>⚡ Fun fact I taught in South Korea for a year
 
 
