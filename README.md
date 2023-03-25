@@ -3,7 +3,7 @@
 ### A little while later they walked out, because they couldn’t find a table.  
 *ba-dum-tsk*
 
-🔭 I’m currently working on a MERN stack project<br>🌱 I’m currently learning SASS<br>💬 Ask me about breezebnb<br>⚡ Fun fact I taught in South Korea for a year<br> 👨‍💻 Checkout my website <a href='https://mitchjindra413.github.io/Portfolio-Website/'> HERE
+🔭 I’m currently working on a MERN stack project<br>💬 Ask me about breezebnb<br>⚡ Fun fact I taught in South Korea for a year<br> 👨‍💻 Checkout my website <a href='https://mitchjindra413.github.io/Portfolio-Website/'> HERE
 
 
 ## 🌐 Socials:
