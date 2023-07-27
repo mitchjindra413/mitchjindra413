@@ -3,7 +3,7 @@
 ### A little while later they walked out, because they couldn’t find a table.  
 *ba-dum-tsk*
 
-🔭 I’m currently working on a MERN stack project<br>💬 Ask me about breezebnb<br>⚡ Fun fact I taught in South Korea for a year<br> 👨‍💻 Checkout my website <a href='https://mitchjindra413.github.io/Portfolio-Website/'> HERE
+🔭 I’m currently working/volunteering at the edtech non-profit Tutoria.io, helping them transition over their current website to Rails 7.<br>💬 Ask me about my time at tutoria or my fullstack Breezebnb<br>⚡ Fun fact I taught in South Korea for a year<br> 👨‍💻 Checkout my website <a href='https://mitchjindra413.github.io/Portfolio-Website/'> HERE
 
 
 ## 🌐 Socials:
